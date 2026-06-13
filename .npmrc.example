@@ -1,0 +1,5 @@
+# For publishing to GitHub Packages:
+# @your-org:registry=https://npm.pkg.github.com
+
+# For publishing to npm (default, no config needed):
+# npm config set //registry.npmjs.org/:_authToken YOUR_TOKEN
